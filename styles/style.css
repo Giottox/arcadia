@@ -338,12 +338,9 @@
   list-style-type: none;
   vertical-align: middle;
   display: inline-block;
-  margin: 1.8em 2em 6em 2em;
+  margin: 4em 3.5em 6em 6em;
   transition: all .3s;
 } 
-
-.ul-list {
-}
 
 .client-list a img:hover {
   list-style-type: none;
@@ -662,12 +659,17 @@ font-size: 1em;
   float: left;
 }
 
+.footer-right {
+  display: inline-block;
+}
+
 .footer-right p {
   color: #fff;
   float: right;
   font-size: 0.875em;
   font-weight: 700;
   text-transform: uppercase;
+
 }
 
 .footer-right a p{
